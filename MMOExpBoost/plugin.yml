@@ -1,0 +1,16 @@
+name: MMOExpBoost
+main: com.starshinegames.mmoexpboost.Main
+version: 1
+api-version: 1.14
+depend: [MMOCore]
+commands: 
+permissions:
+    xpboost.1.5:
+        description: 1.5x xp boost
+        default: false
+    xpboost.2.0:
+        description: 2.0x xp boost
+        default: false
+    xpboost.3.0:
+        description: 3.0x xp boost
+        default: false
