@@ -1,0 +1,6 @@
+name: CarrotOnAStick
+main: com.starshinegames.carrotonastick.Main
+version: 1.7
+api-version: 1.13
+depend: [Lands]
+commands: 
