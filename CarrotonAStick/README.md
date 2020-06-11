@@ -1,0 +1,2 @@
+This is a plugin I created for a Minecraft Server. It does two seperate things. First, it fixes the location of 3D gun textures by giving the player haste (so they can scope quickly) and miner fatigue (to lower the texture). Second, it creates a hammer function for pickaxes by using lore.
+The hammer function was built for MMOItems, which the server used for their custom items and the first line of editable lore was the fifth line. It has a limited selection of blocks it works on due to a shulker dupe glitch that was found.
