@@ -66,6 +66,7 @@ public class Tables extends AbstractClass implements Listener {
 						String t = config.getString("Tables");
 						// This is how the table names are formatted. It allows for 9 custom tables
 						// (CCEarth only has 4)
+						//This should be replaced with a switch statement ***
 						for (int j = 1; j <= i; j++) {
 							String s;
 							if (j == 1)
