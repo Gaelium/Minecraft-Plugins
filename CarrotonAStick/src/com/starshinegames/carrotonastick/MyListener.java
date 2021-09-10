@@ -20,7 +20,7 @@ import org.bukkit.potion.PotionEffectType;
 
 import me.angeschossen.lands.api.integration.LandsIntegration;
 
-
+//The code in this file is extremely messy. It needs to be refactored.
 public class MyListener implements Listener {
 	private final LandsIntegration landsAddon;
 	// CoreProtectAPI cp;
